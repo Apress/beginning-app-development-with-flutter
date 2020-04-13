@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>679205492316-fdoe7bjvftsr4qtdfia653cshglkqpfh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.679205492316-fdoe7bjvftsr4qtdfia653cshglkqpfh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChA7iNGOXEqiiQD6KmsNRc0Tqy8MKG55w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>679205492316</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.us.learningflutter</string>
+	<key>PROJECT_ID</key>
+	<string>learning-flutter-e3d0a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>learning-flutter-e3d0a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:679205492316:ios:4edc2bf064a78ea3</string>
+	<key>DATABASE_URL</key>
+	<string>https://learning-flutter-e3d0a.firebaseio.com</string>
+</dict>
+</plist>

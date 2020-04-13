@@ -1,0 +1,5 @@
+name: beginning_flutter
+version: 1.0.0
+description: For the Dart appendix
+dependencies:
+  crypto: ^2.1.3
